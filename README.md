@@ -1,3 +1,10 @@
+*****--------*****  Project information *****--------*****
+Coded along Lama Dev's youtube video: React E-Commerce App Design Tutorial | React Shopping Cart UI Design
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
