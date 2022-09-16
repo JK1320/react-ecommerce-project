@@ -8,14 +8,14 @@ export const sliderItems = [
   },
   {
     id: 2,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEA1J5Txyp67ra2RhzprYBtmEiOOGLa4jgw&usqp=CAU",
+    img: "https://i.ibb.co/DG69bQ4/2.png",
     title: "AUTUMN COLLECTION",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: "fcf1ed",
   },
   {
     id: 3,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzuZWfIino6mB8tXE05kJAvCGKkXqN4UxKdw&usqp=CAU",
+    img: "https://i.ibb.co/cXFnLLV/3.png",
     title: "LOUNGEWEAR LOVE",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: "f5fafd",
