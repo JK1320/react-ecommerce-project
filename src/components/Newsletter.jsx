@@ -1,8 +1,44 @@
+import { Send } from '@material-ui/icons';
 import React from 'react';
+import styled from 'styled-components';
+
+const Container = styled.div`
+
+`
+
+const Title = styled.h1`
+
+`
+
+const Desc = styled.div`
+
+`
+const InputContainer = styled.div`
+
+`
+
+const Input = styled.input`
+
+`
+
+const Button = styled.button`
+
+`
+
+
 
 function Newsletter() {
   return (
-    <div>Newsletter</div>
+    <Container>
+        <Title>Newsletter</Title>
+    <Desc>Get timely updates from your favorite products.</Desc>
+        <InputContainer>
+        <Input placeHolder="Your e-mail"/>
+        <Button>
+            <Send />
+        </Button>
+        </InputContainer>
+    </Container>
   )
 }
 
