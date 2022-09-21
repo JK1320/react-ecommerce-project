@@ -1,8 +1,15 @@
 import React from 'react';
+import styled from 'styled-components';
+
+const Container = styled.Container`
+
+`
 
 function Product() {
   return (
-    <div>Product</div>
+    <Container>
+
+    </Container>
   )
 }
 
