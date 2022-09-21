@@ -37,8 +37,8 @@ const Option = styled.option`
 function ProductList() {
   return (
     <Container>
-      <Announcement />
       <Navbar />
+      <Announcement />
       <Title>Dresses</Title>
       <FilterContainer>
         <Filter>
