@@ -1,7 +1,11 @@
 *****--------*****  Project information *****--------*****
 Coded along Lama Dev's youtube video: React E-Commerce App Design Tutorial | React Shopping Cart UI Design
 
+# Font-family: urbanist
+from =>     fonts.google.com
 
+## used Styled Components
+=>      npm i styled-components
 
 
 
