@@ -7,7 +7,10 @@ from =>     fonts.google.com
 ## used Styled Components
 =>      npm i styled-components
 
+### used Material-UI for icons
+ =>      npm i @material-ui/core @material-ui/icons
 
+ 
 
 # Getting Started with Create React App
 
