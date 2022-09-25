@@ -2,6 +2,8 @@ import React, {useState} from 'react';
 import styled from 'styled-components';
 import {ArrowLeftOutlined, ArrowRightOutlined} from '@material-ui/icons';
 import { sliderItems } from '../data';
+import {mobile} from '../responsive';
+
 
 // styled components - props used for Arrow to give direction as both (left & right) were at one place. 
 const Container = styled.div`
@@ -10,6 +12,7 @@ height: 100vh;
 display: flex;
 position: relative;
 overflow: hidden;
+ ${mobile({display: "none"})};
 `
 
 const Arrow = styled.div`
