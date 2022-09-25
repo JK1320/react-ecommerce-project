@@ -1,5 +1,5 @@
 *****--------*****  Project information *****--------*****
-Coded along Lama Dev's youtube video: React E-Commerce App Design Tutorial | React Shopping Cart UI Design
+Coded along Lama Dev's youtube video: React E-Commerce App Design Tutorial | React Shopping Cart UI Design || Front-End
 
 # Font-family: urbanist
 from =>     fonts.google.com
